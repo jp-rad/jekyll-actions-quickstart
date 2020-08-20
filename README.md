@@ -1,18 +1,18 @@
 # Jekyll Actions Quickstart
 > How to setup GitHub Pages + Actions for use with Jekyll 4
 
-[![Build and Deploy GH Pages](https://github.com/MichaelCurrin/jekyll-actions-quickstart/workflows/Build%20and%20Deploy%20GH%20Pages/badge.svg)](https://github.com/MichaelCurrin/jekyll-actions-quickstart/actions)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-actions-quickstart)](https://github.com/MichaelCurrin/jekyll-actions-quickstart/tags/)
+[![Build and Deploy GH Pages](https://github.com/jp-rad/jekyll-actions-quickstart/workflows/Build%20and%20Deploy%20GH%20Pages/badge.svg)](https://github.com/jp-rad/jekyll-actions-quickstart/actions)
+[![GitHub tag](https://img.shields.io/github/tag/jp-rad/jekyll-actions-quickstart)](https://github.com/jp-rad/jekyll-actions-quickstart/tags/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Github Pages](https://img.shields.io/badge/Made_with-GitHub_Pages-blue.svg)](https://pages.github.com/)
 [![Made with Github Actions](https://img.shields.io/badge/Made_with-GitHub_Actions-blue.svg)](https://help.github.com/en/actions)
-[![Made with Jekyll Actions](https://img.shields.io/badge/Jekyll_Actions-2.0.2-blue.svg)](https://github.com/marketplace/actions/jekyll-actions)
+[![Made with Jekyll Actions](https://img.shields.io/badge/Jekyll_Actions-2.0.3_plantuml-blue.svg)](https://github.com/jp-rad/jekyll-action/tree/2.0.3-plantuml)
 
 
 ## Purpose
 
-A live demo and introduction around deploying Jekyll 4 to GitHub Pages - using GitHub Actions and the [Jekyll Actions](https://github.com/marketplace/actions/jekyll-actions) action.
+A live demo and introduction around deploying Jekyll 4 to GitHub Pages - using GitHub Actions and the [Jekyll Actions](https://github.com/jp-rad/jekyll-action/tree/2.0.3-plantuml) action.
 
 
 ## How can I use Jekyll 4 with GitHub Actions?
@@ -31,13 +31,13 @@ Here is the link:
 
 See this project's live demo hosted on Github Pages:
 
-[![Github Pages site](https://img.shields.io/badge/site-Github_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-actions-quickstart/)
+[![Github Pages site](https://img.shields.io/badge/site-Github_Pages-blue?style=for-the-badge)](https://jp-rad.github.io/jekyll-actions-quickstart/)
 
 ### Create from template
 
 Create your own repo like this one using the button below. Then continue following the setup and run instructions on this page.
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-actions-quickstart/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/jp-rad/jekyll-actions-quickstart/generate)
 
 
 ## Requirements
