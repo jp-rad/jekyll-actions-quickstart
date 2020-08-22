@@ -11,3 +11,4 @@ Gemfile.lock
 .jekyll-metadata
 # Match the Action's output directory.
 build/
+uml
